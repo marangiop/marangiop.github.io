@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Awareness Without Attachment: A Buddhist Take on the Mind"
-date: 2026-07-31
+date: 2026-07-27
 ---
 
 

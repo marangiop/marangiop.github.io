@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Art of Assertive Communication: How to Navigate Hard Talks"
-date: 2026-07-30
+date: 2026-07-28
 ---
 
 We've all been there: the message you draft and delete five times, the talk you keep putting off, the moment right before you say "hey, can we talk?" when your stomach does a little flip.

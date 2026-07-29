@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attachment vs. Love according to Buddhist Psychology"
-date: 2026-08-01
+date: 2026-07-26
 ---
 
 
