@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "On Listening and Advice"
+title: "On Listening and Giving/Receiving Advice"
 date: 2026-07-29
 ---
-
-
-### The invisible job
 
 When someone tells you about a problem — something at work, a health scare, a fight with a partner — they often just want to be heard. But the person on the receiving end rarely realizes that *listening* is the actual task. They think the task is "respond," and responding usually means: fix it, judge it, or minimize it.
 
