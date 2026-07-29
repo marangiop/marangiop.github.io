@@ -13,4 +13,4 @@ markdown: kramdown
 permalink: /:title/
 
 # Show full post list on homepage
-show_excerpts: true
+show_excerpts: false
