@@ -1,0 +1,16 @@
+title: Paolo's Notes
+description: Short pieces on work, life, and whatever else is worth writing down.
+theme: minima
+
+# Minima theme options (optional, tweak as you like)
+minima:
+  skin: dark
+  social_links:
+    github: marangiop
+
+# Jekyll settings
+markdown: kramdown
+permalink: /:title/
+
+# Show full post list on homepage
+show_excerpts: true
