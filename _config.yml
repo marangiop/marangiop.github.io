@@ -1,5 +1,5 @@
 title: Paolo's Notes
-description: Short pieces on psychology, life, Zen and whatever else is worth writing down.
+description: Short pieces on communication, mindfulness, Buddhist Psychology and whatever else is worth writing down.
 theme: minima
 
 # Minima theme options (optional, tweak as you like)
@@ -14,3 +14,13 @@ permalink: /:title/
 
 # Show full post list on homepage
 show_excerpts: false
+
+# Show posts even if their date is in the future
+future: true
+
+# Auto-generates /sitemap.xml on every build, listing all pages/posts
+plugins:
+  - jekyll-sitemap
+
+# Needed by jekyll-sitemap to build correct absolute URLs
+url: "https://marangiop.github.io"
