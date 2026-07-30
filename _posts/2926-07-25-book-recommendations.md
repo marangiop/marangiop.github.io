@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Bood Recommendations"
+title: "Book Recommendations"
 date: 2026-07-25
 ---
+
+# Book List
 
 | Title | Author | Category | Original Publication Year | Link |
 |---|---|---|---|---|
@@ -11,7 +13,7 @@ date: 2026-07-25
 | Love's Executioner: And Other Tales of Psychotherapy | Irvin D. Yalom | Psycotherapy | 1989 | https://a.co/d/2P2THvN |
 | Owning Your Own Shadow: Understanding the Dark Side of the Psyche | Robert A. Johnson | Psychology | 1991 | https://a.co/d/266GoKV |
 | The Way of Zen | Alan Watts | Zen Buddhism & Eastern Philosophy | 1957 | https://a.co/d/iT1fsRz |
-| The Wisdom of Insecurity | Alan Watts | Philosophy & Spirituality | 1951 | https://a.co/d/09ovh9kP |
+| The Wisdom of Insecurity | Alan Watts | Philosophy & Spirituality | 1951 | |
 | Siddharta | Herman Hesse | Novel | 1922 | https://a.co/d/3jZn62W |
 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | Spirituality | 1997 | https://a.co/d/1YXnMVV |
 | Nonviolent Communication: A Language of Life | Marshall B. Rosenberg | Psychology & Communication | 1999 | https://a.co/d/2ujrhIR |
@@ -41,3 +43,4 @@ date: 2026-07-25
 | Factfulness: ten reasons we're wrong about the world - and why things are better than you think | Hans Rosling | Social science | 2018 | https://amzn.eu/d/4JKSODn |
 | Journey of Souls: Case Studies of Life Between Lives | Michael Newton | Spirituality | 1994 | https://a.co/d/42M1XV7 |
 | Liquid Love: On the Frailty of Human Bonds | Zygmunt Bauman | Philosophy | 2003 | https://a.co/d/0bLqFiVq |
+| The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom | Jonathan Haidt | Psychology & Philosophy | 2006 | https://a.co/d/029G1lyt |
