@@ -10,7 +10,13 @@ Difficult conversations share two annoying traits. First, they're emotionally lo
 
 The good news is that this isn't a personality flaw or a sign you're bad at confrontation. It's a skill gap, and skill gaps can close. Here's how.
 
-## Start With Assertive Communication
+**In this post:**
+
+- [Start With Assertive Communication](#start-with-assertive-communication)
+- [Six Habits That Keep Things Non-Violent](#six-habits-that-keep-things-non-violent)
+- [The Bottom Line](#the-bottom-line)
+
+## Start With Assertive Communication {#start-with-assertive-communication}
 
 Assertive communication sits in the sweet spot between two extremes: steamrolling the other person, and swallowing your own needs to keep the peace. It means holding both your feelings and theirs as legitimate at the same time — which sounds simple until you're actually in the room.
 
@@ -28,7 +34,7 @@ Now it's your turn. State your view with confidence, but no need to raise your v
 **4. Offer a way forward.**
 This is the step people skip, and it's the one that actually gets you somewhere. Propose something that could work for both of you: *"Based on this, I suggest that..."* It won't always land — sometimes there's no perfect middle ground, and that's okay. What matters is the gesture itself: it says *I respect you, and I respect myself too.* Stay open to a counter-proposal. Negotiation is allowed.
 
-## Six Habits That Keep Things Non-Violent
+## Six Habits That Keep Things Non-Violent {#six-habits-that-keep-things-non-violent}
 
 Beyond the four-step structure, a few smaller habits make a huge difference in how a hard conversation actually unfolds.
 
@@ -53,8 +59,8 @@ Stick to what actually happened. Skip the interpretations, skip the comparisons 
 **Know when to walk away.**
 Sometimes the wisest move is to stop. If you can sense — in yourself or the other person — that things have shut down or gotten too raw, pushing forward rarely helps. Pause it. Come back when the emotional heat has cooled. The conversation will still be there tomorrow; it'll just be a better version of itself.
 
-*These ideas draw on the framework for assertive and non-violent communication laid out in the book Bendito Estrés written by Andrés Martín Asuero.*
-
-**The Bottom Line**
+## The Bottom Line {#the-bottom-line}
 
 None of this makes hard conversations easy. But it does make them more survivable — and more likely to actually solve the thing you sat down to solve, instead of adding a second problem on top of the first. The goal was never to win the conversation. It was to leave the relationship a little more intact than you found it.
+
+*These ideas draw on the framework for assertive and non-violent communication laid out in the book Bendito Estrés written by Andrés Martín Asuero.*

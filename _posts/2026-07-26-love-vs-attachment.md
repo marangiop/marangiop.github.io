@@ -4,12 +4,17 @@ title: "Attachment vs. Love according to Buddhist Psychology"
 date: 2026-07-26
 ---
 
-
 Most of us use the word "love" pretty loosely. We say we love our partner, our job, our morning coffee, our phone. But Buddhism draws a sharp — almost uncomfortable — line between two things we tend to lump together: attachment and love. One of them quietly wrecks your peace of mind. The other is the only thing that actually builds it. Telling them apart might be one of the more useful things you ever learn to do.
 
-## What Attachment Actually Is
+**In this post:**
 
-In Buddhist thought, attachment is a disturbed mental state where we look at something — money, a relationship, a job, a substance, our own reputation — and become convinced, with real intensity, that *this* is the thing that will make us happy.
+- [What Attachment Actually Is](#what-attachment-actually-is)
+- [What Love Actually Is](#what-love-actually-is)
+- [Untangling the Two in Real Relationships](#untangling-the-two-in-real-relationships)
+
+## What Attachment Actually Is {#what-attachment-actually-is}
+
+In (Kadampa) Buddhist thought, attachment is a disturbed mental state where we look at something — money, a relationship, a job, a substance, our own reputation — and become convinced, with real intensity, that *this* is the thing that will make us happy.
 
 It builds itself in a fairly predictable four-step sequence:
 
@@ -29,7 +34,7 @@ There's a vivid image for this: attachment is honey on the edge of a knife. Swee
 
 Here's the important nuance, though: you don't need to abandon the *object* itself. Sometimes you can't anyway — you're not going to "give up" your mother because you're attached to her. What you're working to release is the *attachment*, not the person or thing it's attached to.
 
-## What Love Actually Is
+## What Love Actually Is {#what-love-actually-is}
 
 Love, by contrast, is a wholesome state that only ever generates peace and happiness. Where attachment brings tension and preoccupation, real love brings none of that.
 
@@ -52,7 +57,7 @@ The payoff of developing this is substantial:
 
 From affectionate love grows something further: **desiderative love** — genuinely wishing for others' happiness, and hoping they become permanently free of the mental disturbances that cause them suffering.
 
-## Untangling the Two in Real Relationships
+## Untangling the Two in Real Relationships {#untangling-the-two-in-real-relationships}
 
 Here's the honest part: most human relationships are some blend of attachment and love, tangled together. The work isn't to feel guilty about that — it's to learn to tell the two apart, gradually loosen the attachment, and deliberately grow the love. Pure love is the only version of the two that brings peace to both people involved.
 
@@ -70,7 +75,5 @@ Here's the honest part: most human relationships are some blend of attachment an
 - Am I never quite satisfied?
 
 None of this is about judging yourself for being attached — attachment is nearly universal, and untangling it is a slow practice, not a switch you flip. But knowing which one you're standing in, moment to moment, is often the difference between a relationship that drains you and one that actually gives you peace.
-
----
 
 *This piece draws on ideas from New Eight Steps to Happiness by Geshe Kelsang Gyatso, within the Kadampa Buddhist tradition.*
