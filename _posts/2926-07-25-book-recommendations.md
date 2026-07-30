@@ -13,7 +13,7 @@ date: 2026-07-25
 | Love's Executioner: And Other Tales of Psychotherapy | Irvin D. Yalom | Psycotherapy | 1989 | https://a.co/d/2P2THvN |
 | Owning Your Own Shadow: Understanding the Dark Side of the Psyche | Robert A. Johnson | Psychology | 1991 | https://a.co/d/266GoKV |
 | The Way of Zen | Alan Watts | Zen Buddhism & Eastern Philosophy | 1957 | https://a.co/d/iT1fsRz |
-| The Wisdom of Insecurity | Alan Watts | Philosophy & Spirituality | 1951 | |
+| The Wisdom of Insecurity | Alan Watts | Philosophy & Spirituality | 1951 | https://a.co/d/0gf6GeSi |
 | Siddharta | Herman Hesse | Novel | 1922 | https://a.co/d/3jZn62W |
 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | Spirituality | 1997 | https://a.co/d/1YXnMVV |
 | Nonviolent Communication: A Language of Life | Marshall B. Rosenberg | Psychology & Communication | 1999 | https://a.co/d/2ujrhIR |
